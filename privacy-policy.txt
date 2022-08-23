@@ -1,0 +1,16 @@
+Privacy Policy
+Your privacy is of utmost importance to us, that is why we created this section to let you know data collected from you by our system and how it is used.
+
+Data collected and how it is used.
+We use Google analytics to keep track of users using our system and your location may sometimes be included in data sent to our analytics console by Google analytics, though it doesn’t uniquely identify the user location being sent. Apart from your location that may be exposed, none of your data is collected. The in-app browser provided by our system is not cache enabled so your browsing history is not saved.
+
+Links to third party websites and advertisers
+Our app provide links to third party websites in which a news headline content can be read. We are not in control of any data collected by these sites, so please carefully go through their privacy policy before sharing important data with the sites. We also provide links to contacting our advertisers, though we try to ensure our advertisers are legit, we are in no way responsible for any transactions made with the advertisers.
+
+Consent to the Privacy policy
+Your continual usage of our app implies you comply with our privacy policy. We uphold the right to update this policy anytime we think modification is needed, so please, ensure you frequently check this page in order to be aware of any update.
+
+Contact
+For complaint, suggestion, recommendation please feel free to reach out to us via:
+Call or whatsapp +2348037132693
+Email: lbcart20@gmail.com
